@@ -1,0 +1,143 @@
+﻿[Main]
+Name    = BerkeleyDark
+Author  = Berke
+About   = Dark background and pastel/neon/vibrant items.
+Date    = 2023-10-17 11:36:59
+Version = 2.22
+
+[Line]
+Fill   = 0F0804
+Border = A0A0A0
+
+[Page]
+Fill   = 2A3A4A
+Border = 000000
+Text   = FFFFFF
+
+[Breakpoint]
+Fill   = FFA0A0
+Border = FF4C4C
+Text   = 000000
+
+[Comment]
+Fill   = FFFFFF
+Border = 606060
+Text   = 606060
+
+[Input]
+Fill   = DDFF99
+Border = 000000
+Text   = 000000
+
+[Output]
+Fill   = EEBBFF
+Border = 000000
+Text   = 000000
+
+[Declare]
+Fill   = FF5F07
+Border = 000000
+Text   = 00001F
+
+[Assign]
+Fill   = FFBF1F
+Border = 000000
+Text   = 000B0A
+
+[Terminator]
+Fill   = 3F7FFF
+Border = 000000
+Text   = 300A00
+
+[Call]
+Fill   = 3FFF7F
+Border = 000000
+Text   = 3B000A
+
+[If]
+Fill   = 00FFFF
+Border = 000000
+Text   = 000000
+
+[Loop]
+Fill   = FF00FF
+Border = 000000
+Text   = 003300
+
+[Incomplete]
+Fill   = E0E0E0
+Border = 000000
+Text   = 000000
+
+[Error]
+Fill   = FF0000
+Border = 000000
+Text   = FFFFFF
+
+[Selected]
+Fill   = 2080D0
+Border = FFFFFF
+Text   = CCFFCC
+
+[Executing]
+Fill   = 30F030
+Border = FFFFFF
+Text   = 000000
+
+[Window]
+Fill   = 0050A0
+Border = 003080
+Text   = FFFFFF
+
+[Header]
+Fill   = 4060FF
+Border = 000000
+Text   = FFDDAA
+
+[Hover]
+Fill   = D0E8FF
+Border = 000000
+Text   = 000000
+
+[Integer]
+Fill   = 4060C0
+Border = 002060
+Text   = FFFFFF
+
+[Real]
+Fill   = 804080
+Border = 402040
+Text   = FFFFFF
+
+[String]
+Fill   = A04040
+Border = 600000
+Text   = FFFFFF
+
+[Boolean]
+Fill   = 408080
+Border = 004040
+Text   = FFFFFF
+
+[Value]
+Fill = FFFFFF
+Text = 000000
+
+[Subscript]
+Fill = E0E0E0
+Text = 000000
+
+[Control]
+Fill   = E8F0F8
+Border = 000000
+Text   = 000000
+
+[Field]
+Fill   = FFFFFF
+Border = 808080
+Text   = 000000
+
+[Active]
+Fill   = B0D0FF
+Border = 7090C0
+Text   = 000000
