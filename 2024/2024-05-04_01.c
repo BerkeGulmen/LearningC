@@ -24,7 +24,7 @@ int main (int argc, char ** argv, char ** envp) {
     y (r (c, a, b), a, b);
     q (c, a);
     printf ("gg ez win (sukuna diyor).\n");
-    printf ("nah, I'd win (gojo diyor).\n");
+    printf ("Nah, I'd win (gojo diyor).\n");
     return EXIT_SUCCESS;
 }
 double ** x (int a, int b) {
